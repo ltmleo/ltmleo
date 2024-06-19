@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a DevOps Engineer from Brazil
+### Hi there 👋 I'm a Platform Engineer from Brazil
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltmleo&label=Profile%20views&color=0e75b6&style=flat" alt="ltmleo" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Golang, Azure, GCP, AWS,**
 
-- 👯 I’m looking to collaborate on **DevOps Projects**
+- 👯 I’m looking to collaborate on **DevOps, SRE and Platform Projects**
 
 - 🤝 I’m looking for help with **Golang**
 
