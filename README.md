@@ -1,4 +1,6 @@
-### Hi there 👋 I'm a Platform Engineer from Brazil
+### Hi there 👋 I'm a DevOps and Platform Engineer from Brazil
+
+https://ltmleo.github.io/blog/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltmleo&label=Profile%20views&color=0e75b6&style=flat" alt="ltmleo" /> </p>
 
